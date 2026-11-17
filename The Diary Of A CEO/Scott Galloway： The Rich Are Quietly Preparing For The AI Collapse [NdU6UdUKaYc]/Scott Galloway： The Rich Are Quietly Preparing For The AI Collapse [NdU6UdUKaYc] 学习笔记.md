@@ -6,94 +6,97 @@
 
 | 单词 | 美式音标 | 中文释义 | 原文句子 |
 | --- | --- | --- | --- |
-| catastrophize | /kəˈtæstrəfaɪz/ | v. 灾难化；把情况想得极其糟糕 | There's some **catastrophizing**, there's some job loss, that increase in productivity results in additional margin, new business opportunities, and employment growth. |
-| erosion | /ɪˈroʊʒən/ | n. 侵蚀；削弱 | The brand in the last 18 months has had tremendous, tremendous **erosion**. |
-| dystopian | /dɪsˈtoʊpiən/ | adj. 反乌托邦的；末日般的 | He's talking about a fairly **dystopian** future. |
-| disrupt | /dɪsˈrʌpt/ | v. 扰乱；使中断 | Our jobs and our way of life is going to be fundamentally **disrupted** and people don't feel like they have a say in that. |
-| valuation | /ˌvæljuˈeɪʃən/ | n. 估值；估价 | You should invest at this crazy **valuation**. |
-| unprecedented | /ʌnˈprɛsɪdɛntɪd/ | adj. 前所未有的 | So, the first big fear, catastrophizing, is just this **unprecedented** job destruction. |
-| seminal | /ˈsɛmənəl/ | adj. 开创性的；影响深远的 | I do think it's **seminal**. It's breakthrough. |
-| apocalypse | /əˈpɑkəlɪps/ | n. 大灾难；世界末日 | But I'm not sure it's going to be the **apocalypse**. |
-| proliferation | /prəˌlɪfəˈreɪʃən/ | n. 激增；扩散 | Is there a case that because of the speed of this technology and the **proliferation** of it that it will be unlike the revolutions of the past? |
-| reminisce | /ˌrɛməˈnɪs/ | v. 回忆；追忆 | I was kind of **reminiscing** on the way over here. |
-| sophisticated | /səˈfɪstɪkeɪtɪd/ | adj. 老练的；复杂精密的 | You're one of the most technically **sophisticated** people I know in media. |
-| fluency | /ˈfluənsi/ | n. 流利；熟练 | AI **fluency** is becoming increasingly important. |
-| vocational | /voʊˈkeɪʃənəl/ | adj. 职业的；职业技术的 | The unemployment rate among non-college grads because of the boom in **vocational** work is now lower than the unemployment rate among college grads. |
-| resilience | /rɪˈzɪliəns/ | n. 韧性；复原力 | They're losing this sense of **resilience** and aggressiveness. |
-| mentor | /ˈmɛntɔr/ | v. 指导；辅导 | The men I **mentor**, they want to move out of their parents house and they want a girlfriend. |
-| mourn | /mɔrn/ | v. 哀悼；为…悲伤 | I **mourned** and I moved on. |
-| proxy | /ˈprɑksi/ | n. 代表；代理；反映 | He's a **proxy** for all of AI. |
-| surveil | /sərˈveɪl/ | v. 监视 | We should be ensuring that these technologies are not used to **surveil** Americans. |
-| nihilist | /ˈnaɪəlɪst/ | n. 虚无主义者 | Do you think he's a **nihilist**? |
+| endure | /ɪnˈdʊr/ | v. 忍受；忍耐 | I think a lot of young people are losing the ability to **endure** rejection. |
+| rejection | /rɪˈdʒɛkʃən/ | n. 拒绝；被拒 | The secret to my success is **rejection**. |
+| resilience | /rɪˈzɪljəns/ | n. 韧性；恢复力 | But a lot of it is **resilience**. |
+| disrupt | /dɪsˈrʌpt/ | v. 扰乱；颠覆 | In part because the big CEOs of these companies are saying that our jobs and our way of life is going to be fundamentally **disrupted** and people don't feel like they have a say in that. |
+| destruction | /dɪˈstrʌkʃən/ | n. 破坏；毁灭 | I think the greatest brand **destruction** over the last 18 months is the US brand abroad and AI. |
+| devastating | /ˈdɛvəsteɪtɪŋ/ | adj. 毁灭性的；令人震惊的 | I think it's mostly the catastrophizing is nothing more than thinly veiled attempt to say my technology is so **devastating** that it's going to shift society and you should invest at this crazy valuation. |
+| valuation | /ˌvæljuˈeɪʃən/ | n. 估值；估价 | Either these companies **valuations** need to be cut by 50 or 70%. |
+| erosion | /ɪˈroʊʒən/ | n. 削弱；侵蚀 | The brand in the last 18 months has had tremendous, tremendous **erosion**. |
+| incompetence | /ɪnˈkɑmpətəns/ | n. 无能；不称职 | And that **incompetence** is bubbling up. |
+| apocalypse | /əˈpɑkəlɪps/ | n. 大灾难；世界末日 | The labor market is definitely reshaping and it might reshape faster, but I'm not sure it's going to be the **apocalypse**. |
+| catastrophize | /kəˈtæstrəfaɪz/ | v. 危言耸听；把…想成灾难 | There's some **catastrophizing**, there's some job loss, that increase in productivity results in additional margin, new business opportunities, and employment growth. |
+| reshape | /ˌriˈʃeɪp/ | v. 重塑；重新塑造 | But yeah, the employment market's absolutely **reshaping**. |
+| upskill | /ˌʌpˈskɪl/ | v. 提升技能 | People do need to consider ways that they can **upskill** themselves with these technologies. |
+| vocational | /voʊˈkeɪʃənəl/ | adj. 职业的；职业教育的 | The unemployment rate among non-ol grads because of the boom in **vocational** work is now lower than the unemployment rate among college grads. |
+| supplement | /ˈsʌpləmənt/ | n. 补充；补充物 | I think the robot in the context of surgery will be not a replacement but a **supplement**. |
+| weaponize | /ˈwɛpənaɪz/ | v. 使武器化；把…当作武器 | and that is there'll be a large class of surgeons who know how to **weaponize** robotics to be better surgeons and quite frankly do two surgeries a day instead of one. |
+| ubiquitous | /juˈbɪkwɪtəs/ | adj. 无处不在的；普遍存在的 | I think it's the most profitable **ubiquitous** piece of jewelry in history. |
+| greenlight | /ˈɡrinlaɪt/ | v. 批准；开绿灯 | They've **greenlighted** Whimo, for example. |
+| competent | /ˈkɑmpətənt/ | adj. 能干的；胜任的 | There's a lot of moving parts and you have to have a **competent** partner. |
+| onus | /ˈoʊnəs/ | n. 责任；义务 | So yeah, do you have an **onus** to update your skills to understand new? |
+| enduring | /ɪnˈdʊrɪŋ/ | adj. 持久的；经久不衰的 | I think a certain fundamental understanding of the sciences, those seem to be pretty **enduring**. |
+| persuasion | /pərˈsweɪʒən/ | n. 说服；说服力 | You said storytelling, and I think storytelling is a proxy of of sales and **persuasion**. |
+| mourn | /mɔrn/ | v. 哀悼；感到悲痛 | I mean, I **mourned** and I moved on. |
+| compound | /kəmˈpaʊnd/ | v. （财富、利益等）复利增长；不断增加 | If you take you from 21 to now, how your intelligence and wisdom and connections have all **compounded**. |
+| arrogant | /ˈærəɡənt/ | adj. 傲慢的；自大的 | That's pretty **arrogant**. |
+| surveil | /sərˈveɪl/ | v. 监视；监控 | We should be ensuring that these technologies are not used to **surveil** Americans, right? |
 | bunker | /ˈbʌŋkər/ | n. 地堡；掩体 | They fly to New Zealand to Auckland and they have a **bunker** built out. |
-| habitable | /ˈhæbɪtəbəl/ | adj. 宜居的；可居住的 | Your resources and your talent should be allocated towards trying to make this place a little bit more **habitable**. |
-| sequester | /sɪˈkwɛstər/ | v. 隔离；使隔绝 | 40% of the S&P, our economy is trying to **sequester** you from the most important and rewarding thing in your life and that is your relationships. |
-| humiliating | /hjuˈmɪlieɪtɪŋ/ | adj. 令人羞辱的；丢脸的 | Flying on Spirit Airlines is a **humiliating**, dangerous experience. |
-| monetize | /ˈmɑnətaɪz/ | v. 使商业化；变现 | The bottom 99% of Western societies are essentially being optimized and **monetized** to make the life of the 1% just unbelievable. |
-| compelling | /kəmˈpɛlɪŋ/ | adj. 引人入胜的；有说服力的 | Your ability to look at data, create a narrative arc and then communicate that story in a **compelling** way via all the different mediums. |
-| quagmire | /ˈkwæɡmaɪər/ | n. 泥潭；困境 | We're now in the definition of a **quagmire**. |
-| gut | /ɡʌt/ | v. 掏空；彻底削弱（机构等） | We've absolutely **gutted** it. |
-| ceasefire | /ˈsisfaɪər/ | n. 停火 | Is it a **ceasefire**? Isn't a ceasefire? |
-| miscalculate | /mɪsˈkælkjəleɪt/ | v. 误判；错误估计 | I think it's clear that Trump **miscalculated** this situation quite horrifically. |
-| correction | /kəˈrɛkʃən/ | n. 回调；修正（股市） | But there's almost always a dip or a **correction** afterwards. |
-| dumping | /ˈdʌmpɪŋ/ | n. 倾销 | I would engage in modern-day steel **dumping**. |
-| recession | /rɪˈsɛʃən/ | n. 经济衰退 | If that slows down, we're immediately in **recession**. |
-| diversify | /daɪˈvɜrsəfaɪ/ | v. 使多样化；分散投资 | I just **diversify** like crazy. |
-| overvalued | /ˌoʊvərˈvæljud/ | adj. 估值过高的 | Everything to me just looks crazy **overvalued**. |
-| grit | /ɡrɪt/ | n. 毅力；坚韧 | I credited my character and my **grit** for my success. |
-| longevity | /lɑnˈdʒɛvəti/ | n. 长寿 | I started reading a lot of literature on happiness and **longevity**. |
-| setback | /ˈsɛtbæk/ | n. 挫折 | What is the most challenging **setback** you've experienced? |
-| grief | /ɡrif/ | n. 悲伤；悲痛 | I went to **grief** counseling. |
+| disproportionate | /ˌdɪsprəˈpɔrʃənət/ | adj. 不成比例的；过大的 | So they have a **disproportionate** amount of control over our elected population. |
+| sequester | /sɪˈkwɛstər/ | v. 使隔绝；隔离 | And what they need to know is that 40% of the S&P our economy is trying to **sequester** you from the most important and rewarding thing in your life and that is your relationships. |
+| humiliating | /hjuˈmɪliˌeɪtɪŋ/ | adj. 令人羞辱的；丢脸的 | Flying on Spirit Airlines is a **humiliating**, dangerous experience. |
+| monetize | /ˈmɑnətaɪz/ | v. 变现；靠…赚钱 | The bottom 99% of Western societies are essentially being optimized and **monetized** to make the life of the 1% just unbelievable. |
+| kneecap | /ˈnikæp/ | v. 削弱；使瘫痪（非正式，比喻） | Give Americans cheap AI and you'll **kneecap** their economy. |
+| recession | /rɪˈsɛʃən/ | n. 经济衰退；萧条 | If that slows down, we're immediately in **recession**. |
+| diversification | /daɪˌvɜrsɪfɪˈkeɪʃən/ | n. 多元化；分散投资 | The only kevlar against the unknown, which is everywhere, is **diversification**. |
+| overvalued | /ˌoʊvərˈvæljud/ | adj. 被高估的 | Everything to me just looks crazy **overvalued**. |
+| bankruptcy | /ˈbæŋkrʌptsi/ | n. 破产 | My e-commerce company that went public in 2002 went through restructuring, which is a fancy word for **bankruptcy**. |
+| grit | /ɡrɪt/ | n. 毅力；坚韧 | And I I credited my character and my **grit** for my success without crediting enough to how lucky I was that I was in the right place at the right time. |
+| longevity | /lɔnˈdʒɛvəti/ | n. 长寿；持久 | And then I realized I started reading a lot of literature on happiness and **longevity**. |
+| testament | /ˈtɛstəmənt/ | n. 证明；见证 | I think it's a **testament** to the impact it's having on the world. |
+| setback | /ˈsɛtbæk/ | n. 挫折；阻碍 | The question left for you is in one sentence, what is the most challenging **setback** you've experienced? |
 
 ## 二、词组 Phrases
 
 | 词组 | 美式音标 | 中文释义 | 原文句子 |
 | --- | --- | --- | --- |
-| thinly veiled | /ˈθɪnli veɪld/ | 几乎不加掩饰的；昭然若揭的 | I think some of the catastrophizing is nothing more than **thinly veiled** attempt to say my technology is so devastating that it's going to shift society and you should invest at this crazy valuation. |
-| take advantage of | /teɪk ədˈvæntɪdʒ əv/ | 利用 | I actually believe there was justification and some merit to the idea of a military operation that tried to **take advantage of** a weakened Iran whose air defenses were down. |
-| punch above your weight class | /pʌntʃ əˈbʌv jʊr weɪt klæs/ | 挑战比自己更强的人；越级竞争 | You want to **punch above your weight class**, get out a big spoon and get ready to eat. |
-| sell yourself short | /sɛl jʊrˈsɛlf ʃɔrt/ | 低估自己；妄自菲薄 | Most of us go through our lives **selling ourselves short**. |
-| factor in | /ˈfæktər ɪn/ | 把…考虑在内 | You've almost got to like **factor in** your own exponential improvement. |
-| guard rails | /ɡɑrd reɪlz/ | 护栏；防范机制 | We're supposed to elect people who put in **guard rails** for them. |
-| tragedy of the commons | /ˈtrædʒədi əv ðə ˈkɑmənz/ | 公地悲剧 | That is doing anything they can legally to increase shareholder value regardless of whether it prevents a **tragedy of the commons** or not. |
-| go bag | /ɡoʊ bæɡ/ | 应急逃生包 | A lot of them have **go bags**. |
-| hit the tarmac | /hɪt ðə ˈtɑrmæk/ | 抵达；降落（机场停机坪） | 97% of the work is done before they **hit the tarmac** by diplomats who go through line by line and iron out and talk to each other. |
-| dress up | /drɛs ʌp/ | 装扮；粉饰；伪装 | I think that catastrophizing is **dressed up** fundraising. |
-| bubble up | /ˈbʌbəl ʌp/ | 浮现；冒出来 | And that incompetence is **bubbling up**. |
-| vested interest | /ˈvɛstɪd ˈɪntrəst/ | 既得利益 | I think there'll be a multinational force that has a **vested interest** in ensuring the Strait of Hormuz is open. |
-| turn out to be | /tɜrn aʊt tə bi/ | 结果是；证明是 | This right now is no doubt **turning out to be** a giant win for the IRGC and a pretty severe loss for America. |
-| fly blind | /flaɪ blaɪnd/ | 盲目行事；在缺乏信息的情况下行动 | We're kind of **flying blind** without instruments. |
-| soft power | /sɔft ˈpaʊər/ | 软实力 | I think a lack of investment in key areas, a lack of **soft power**, whether it's through cutting USA aid, a lack of respect for our diplomatic core. |
-| ground zero | /ɡraʊnd ˈzɪroʊ/ | 起点；事发中心 | **Ground zero** for the job that was going to go away was radiologists. |
-| buy into | /baɪ ˈɪntu/ | 相信；接受（观点） | I think he **bought into** that. |
-| silver bullet | /ˈsɪlvər ˈbʊlɪt/ | 灵丹妙药；万能之计 | I don't have a **silver bullet** here. |
+| thinly veiled | /ˈθɪnli veɪld/ | 几乎不加掩饰的；含蓄掩饰的 | And I don't I think some of the catastrophizing is nothing more than **thinly veiled** attempt to say my technology is so devastating that it's going to shift society and you should invest at this crazy valuation. |
+| have someone's best interests at heart | /hæv ˈsʌmwʌnz bɛst ˈɪntrəsts æt hɑrt/ | 把某人的最大利益放在心上 | These techs, they do not **have our best interests at heart**. |
+| bubble up | /ˈbʌbəl ʌp/ | 浮现；显露 | I think this level of incompetence and arrogance is all **bubbling up** and they you're right, they don't even know who to talk to. |
+| a moving target | /ə ˈmuvɪŋ ˈtɑrɡət/ | 不断变化的目标 | It feels like **a moving target**. |
+| punch above your weight | /pʌntʃ əˈbʌv jʊr weɪt/ | 挑战比自己更强的对手；超水平发挥 | You want to **punch above your weight class**, get out a big spoon and get ready to eat |
+| sell yourself short | /sɛl jərˈsɛlf ʃɔrt/ | 低估自己；妄自菲薄 | So I'm now I actually now think in every season of my life I've **sold myself short**. |
+| bail out | /beɪl aʊt/ | 救助；纾困 | We I'm sorry, we **bailed out** the banks, but we didn't **bail out** the economy. |
+| prop up | /prɑp ʌp/ | 支撑；扶持 | But what we've decided, the leadership of my generation has decided we'd rather pull out your credit card and artificially **prop up** the markets through deficit spending or bailouts. |
+| silver bullet | /ˈsɪlvər ˈbʊlɪt/ | 灵丹妙药；万能之策 | So look I don't I don't have a **silver bullet** here. |
+| call someone's bluff | /kɔl ˈsʌmwʌnz blʌf/ | 揭穿某人的虚张声势 | And she **called my bluff** and said, "We don't have to be married." |
+| at the end of the day | /æt ði ɛnd əv ðə deɪ/ | 说到底；最终 | **At the end of the day**, I have three different law firms pitching me business, three different investment banks, three different CRM companies. |
+| take (something) for granted | /teɪk ˈsʌmθɪŋ fər ˈɡræntɪd/ | 认为…理所当然 | There's so many things we've **taken for granted** in the West and one of them is freedom of navigation. |
+| go bag | /ɡoʊ bæɡ/ | 应急逃生包 | I think there's a nihilist vein running through big tech where a lot of them have **go bags**. |
+| guard rails | /ˈɡɑrd ˌreɪlz/ | 护栏；防护措施 | We should have regulators putting in **guard rails** on AI. |
+| step up to the plate | /stɛp ʌp tə ðə pleɪt/ | 挺身而出；迎难而上 | You just want to **step up to the plate** as many times as possible. |
 
 ## 三、经典句子 Sentences
 
 1. **AI is not going to take your job. Someone who understands AI is going to take your job.**
-   - 译：AI 不会抢走你的工作；懂 AI 的人才会抢走你的工作。
-   - 要点：用 who 引导定语从句形成对比，是谈论 AI 与就业时的高频警句，值得背下来直接引用。
+   - 译：取代你的不是 AI，而是会用 AI 的人。
+   - 要点：Not... someone who... 的对比结构；强调"掌握工具"比"工具本身"更重要。
 
 2. **The secret to my success is rejection.**
-   - 译：我成功的秘诀就是（习惯）被拒绝。
-   - 要点：抽象名词作表语的简洁判断句，可套用为 "The secret to ... is ..."。
+   - 译：我成功的秘诀就是被拒绝。
+   - 要点：the secret to sth 的搭配；把"被拒绝"重新定义为必经之路。
 
 3. **Nothing's ever as good or as bad as it seems.**
    - 译：事情永远不会像看上去那么好，也不会像看上去那么糟。
-   - 要点：as + 形容词 + as 同级比较与 ever 连用，表达豁达心态，写作和口语都很实用。
+   - 要点：as good as / as bad as 平级比较；一句适合自省与安慰他人的箴言。
 
-4. **If you're going to err to the upside because the market will bring you back on its own.**
-   - 译：如果要犯错，宁可高估，因为市场会自行把你拉回来。
-   - 要点：条件句 + 动词 err，商业语境中鼓励大胆定价、敢于开价的经典表达。
+4. **At the end of life people wish they'd allowed themselves to be happier.**
+   - 译：走到生命尽头，人们往往希望当初能让自己更快乐一些。
+   - 要点：wish + had done（过去完成时）表达对过去的遗憾。
 
-5. **The biggest downside of AI in my view is loneliness.**
-   - 译：在我看来，AI 最大的弊端是孤独。
-   - 要点：最高级 + 介词短语插入语（in my view），结构清晰、观点鲜明，适合表达立场。
+5. **The only kevlar against the unknown, which is everywhere, is diversification.**
+   - 译：面对无处不在的未知，唯一的"护甲"就是分散投资。
+   - 要点：kevlar（凯夫拉防弹材料）借代"防护"；which 引导非限定性定语从句。
 
-6. **The only kevlar against the unknown, which is everywhere, is diversification.**
-   - 译：面对无处不在的未知，唯一的防弹衣就是分散投资。
-   - 要点：which 引导的非限定性定语从句作插入语，是表达"应对不确定性"的高级句型。
+6. **So a lot of your success and a lot of your failure isn't your fault.**
+   - 译：你的很多成功和很多失败，其实都不是你的错。
+   - 要点：a lot of your X and a lot of your Y 对仗句式；既教人谦逊，也教人宽恕自己。
 
-7. **You can never tell your parents how much you love them too much.**
-   - 译：对父母的爱，说多少次都不为过。
-   - 要点：can never ... too much 结构（否定 + too much），表示"再…也不为过"，适合情感表达。
+7. **The key to success is getting shot in the face and then just getting up again.**
+   - 译：成功的关键，就是被"打脸"之后还能重新站起来。
+   - 要点：the key to success is + doing；shot in the face 是形象化的挫折隐喻。
+
+8. **The more famous you get, quite frankly, the more personal risk there is.**
+   - 译：你越出名，说实在的，面临的人身风险就越大。
+   - 要点：the more..., the more... 比较级句型；quite frankly 作插入语。
